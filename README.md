@@ -16,5 +16,5 @@ An interactive CAPTCHA system built with Python and Tkinter, requiring users to 
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/captcha-grid-solver.git
-cd captcha-grid-solver
+git clone git@github.com:CarlosSarasty/captcha_generator.git
+cd captcha_generator
