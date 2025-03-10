@@ -18,3 +18,10 @@ An interactive CAPTCHA system built with Python and Tkinter, requiring users to 
 ```sh
 git clone git@github.com:CarlosSarasty/captcha_generator.git
 cd captcha_generator
+```
+
+## Requirements 🛠️  
+Make sure you have the following Python libraries installed before running the script:  
+
+```bash
+pip install pillow  
