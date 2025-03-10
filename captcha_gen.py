@@ -5,7 +5,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk, ImageDraw
 
 # Configuration
-IMAGE_DIR = "/Users/csarasty/Scripts/captcha_generator"  # Folder containing images
+IMAGE_DIR = "THIS_FOLDER"  # Folder containing images
 GRID_SIZE = 3  # 3x3 grid
 
 # Load images from the directory
