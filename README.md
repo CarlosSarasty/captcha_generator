@@ -12,7 +12,7 @@ An interactive CAPTCHA system built with Python and Tkinter, requiring users to 
 - 🏗️ **Easy to Customize**: Just add your own images in the `/correct` and `/incorrect` folders.
 
 ## 📸 Demo
-![Demo](demo.mp4)
+![Demo](demo.gif)
 
 
 
