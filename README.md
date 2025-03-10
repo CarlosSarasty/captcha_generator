@@ -1,2 +1,21 @@
-# captcha_generator
-🔐 CAPTCHA Grid Solver – An interactive image-based CAPTCHA system using Python and Tkinter. Users must correctly identify images in a 3x3 grid to unlock a protected folder. 🚀
+# CAPTCHA Grid Solver 🔐
+
+🚧 This project is currently under active development! 🚀 Stay tuned for updates and improvements. 💡
+
+An interactive CAPTCHA system built with Python and Tkinter, requiring users to select the correct images to unlock a folder.
+
+## 📝 Features
+- 🔒 **Folder Locking & Unlocking**: Securely locks a folder and unlocks it when the correct images are selected. (IN PROGRESS)
+- 🖼️ **Image-Based CAPTCHA**: Users must correctly identify images from a 3x3 grid.
+- 🎨 **Visual Selection Feedback**: Selected images are highlighted with a red border.
+- 🎲 **Randomized Image Selection**: Ensures a unique challenge every time.
+- 🏗️ **Easy to Customize**: Just add your own images in the `/correct` and `/incorrect` folders.
+
+## 📸 Demo
+(Include a GIF or screenshot of your CAPTCHA in action!)
+
+## 🚀 Installation & Usage
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/yourusername/captcha-grid-solver.git
+cd captcha-grid-solver
